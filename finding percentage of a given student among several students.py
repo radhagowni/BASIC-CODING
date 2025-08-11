@@ -8,4 +8,4 @@ query_name=input()
 for j in student_marks:
     if j==query_name:
         average=sum(student_marks[j])/3
-print("{:.2f}".format(average))
+print("Average marks : {:.2f}".format(average))
