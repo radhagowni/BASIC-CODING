@@ -3,4 +3,4 @@ def fib(n):
         return n
     return fib(n-1)+fib(n-2)
 n=int(input())
-print('Nth term is',fib(n-1))
+print('Nth term is ',fib(n-1))
