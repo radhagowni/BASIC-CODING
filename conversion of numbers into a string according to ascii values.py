@@ -5,7 +5,7 @@ i=0
 password=""
 while i<len(string):
     if i<len(string):
-        two_digit_num=int(reverse[i:i+2])
+         two_digit_num=int(reverse[i:i+2])
     else :
         two_digit_num=-1 
     if i<len(string):
