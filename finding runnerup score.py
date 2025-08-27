@@ -5,4 +5,4 @@ l.sort()
 m=max(l)
 ele=l.index(m)
 sec=ele-1
-print(l[sec])
+print("Runnerup Score:",l[sec])
