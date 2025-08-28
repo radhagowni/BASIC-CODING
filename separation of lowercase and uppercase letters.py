@@ -9,8 +9,8 @@ for i in range(len(string)):
         s=s+string[i]
     else:
         r=r+string[i]
-print("lower case letters:",s)
-print("uppercase letters:",r)
+print("lower case letters: ",s)
+print("uppercase letters: ",r)
 #alternative way
 l=""
 m=""
