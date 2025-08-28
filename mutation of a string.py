@@ -10,4 +10,4 @@ print(s)
 l=list(string)
 l[position]=character
 st=''.join(l)
-print(st)
+print( st )
