@@ -4,7 +4,7 @@ def EMI(p,t,r):
     i=(p*t*r)/100
     emi=(p+i)/(12*t)
     return emi
-principle=int(input("enter the principle amount:"))
+principle=int(input("Enter the principle amount:"))
 time=int(input("enter time: "))
 rate=int(input("enter rate of interest:"))
 interest=simple_interest(principle,time,rate)
