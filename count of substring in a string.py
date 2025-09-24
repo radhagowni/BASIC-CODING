@@ -1,4 +1,4 @@
-string=input()
+string=input("enter string:")
 substring=input()
 count=0
 for i in range(0,len(string)):
