@@ -41,7 +41,7 @@ def income_tax(income):
         res4=res3-300000
         tax4=(res4*30)/100
         return tax+tax1+tax2+tax3+tax4
-income=int(input())
+income=int(input("Enter your income:"))
 m=income_tax(income)
 print(m)
     
