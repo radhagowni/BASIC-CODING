@@ -1,5 +1,5 @@
 #taking a group of numbers as a string , reversing it and print character as per their ascii values 
-string=input()
+string= input()
 reverse=string[::-1]
 i=0
 password=""
