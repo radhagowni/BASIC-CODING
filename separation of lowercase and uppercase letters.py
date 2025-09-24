@@ -1,5 +1,5 @@
 #taking input from string
-string=input()
+string=input("Enter string:")
 #initialising empty variables to store upper and lower case letters separately
 s=""
 r=""
