@@ -1,3 +1,4 @@
+#to find the factors of a number
 def find_divisors(n):
     if n<=0:
         return
