@@ -21,6 +21,6 @@ while i<=math.sqrt(n):
             sum=sum+i+n/i
             i=i+1
 if sum>n:
-    print("abundant number")
+    print(n," is an abundant number")
 else:
-    print("not an abundant number")
+    print(n," is not an abundant number")
