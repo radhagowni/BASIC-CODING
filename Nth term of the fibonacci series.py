@@ -1,3 +1,4 @@
+#to print the nth term in fibonacci series
 def fib(n):
     if n<2:
         return n
