@@ -1,6 +1,6 @@
 #taking a group of numbers as a string , reversing it and print character as per their ascii values 
 string= input()
-reverse=string[::-1]
+reverse=string[::-1] #reversing the string
 i=0
 password=""
 while i<len(string):
