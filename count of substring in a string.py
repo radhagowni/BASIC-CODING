@@ -1,3 +1,4 @@
+# To calculate the number of times the substring has occured in the given string
 string=input("enter string:")
 substring=input()
 count=0
