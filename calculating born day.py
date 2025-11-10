@@ -1,3 +1,4 @@
+# It is to know the born day of particular person
 month=[0,3,3,6,1,4,6,2,5,0,3,5]
 day=["sun","mon","tue","wed","thu","fri","sat"]
 y=0
