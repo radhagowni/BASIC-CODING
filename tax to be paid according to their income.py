@@ -1,3 +1,4 @@
+# calculation of tax
 def income_tax(income):
     if income<=300000:
         return "no tax"
