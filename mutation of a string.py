@@ -1,5 +1,5 @@
 #first method
-string=input()
+string=input("Enter string: ")
 #taking position where we need to change
 position=int(input())
 #character to be replaced
