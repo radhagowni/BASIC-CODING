@@ -1,4 +1,4 @@
-string=input()
+string=input("Enter String: ")
 swapped_string=string.swapcase()
 uppercase_string=string.upper()
 lowercase_string=string.lower()
