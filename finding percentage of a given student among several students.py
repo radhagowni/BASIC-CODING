@@ -1,3 +1,4 @@
+# finding percentage of a given student
 n=int(input())
 student_marks={}
 for i in range(n):
