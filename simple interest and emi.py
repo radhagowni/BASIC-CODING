@@ -1,6 +1,6 @@
 # We have used the function called simple_interest to calculate the amount of interest to be paid
 def simple_interest(p,t,r):
-    return (principle*time*rate)/100
+    return (principle*time*rate)/100 #formula for simple interest
 def EMI(p,t,r):
     i=(p*t*r)/100
     emi=(p+i)/(12*t)
