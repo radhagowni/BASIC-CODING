@@ -1,7 +1,7 @@
 #taking input from string
 string=input("Enter string:")
 #initialising empty variables to store upper and lower case letters separately
-s=""
+s=""  # it is for lowercase
 r=""
 #traversing through string
 for i in range(len(string)):
