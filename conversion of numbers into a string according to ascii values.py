@@ -21,4 +21,4 @@ while i<len(string):
         i+=3
         continue
     i+=1
-print(password)
+print("password: ",password)
