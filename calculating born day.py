@@ -15,5 +15,6 @@ elif (year>1900  and year<=2000):
     y=0
 elif (year>2000 and year<=2100):
     y=6
+# we are calculating bday
 bday=day[(date+y+month[month1-1]+((year%100)//4)+(year%100))%7]
 print("Birthday :" ,bday)   
