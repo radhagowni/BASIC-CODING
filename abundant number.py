@@ -7,9 +7,9 @@ for i in range(2,n):
     if n%2==0:
         sum=sum+i
 if sum>n:
-    print("Abundant number")
+    print(n," is an Abundant number")
 else:
-    print("not an abundant number")
+    print(n, " is not an abundant number")
 #alternate method
 i=2
 import math
